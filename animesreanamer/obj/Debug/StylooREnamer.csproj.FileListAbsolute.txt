@@ -1,0 +1,38 @@
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\bin\Debug\MaterialSkin.dll
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\obj\Debug\StylooREnamer.csproj.AssemblyReference.cache
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\obj\Debug\animesreanamer.filerenamer.resources
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\obj\Debug\StylooREnamer.csproj.GenerateResource.cache
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\obj\Debug\StylooREnamer.csproj.CoreCompileInputs.cache
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\obj\Debug\StylooREnamer.csproj.CopyComplete
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\bin\Debug\StylooREnamer.exe.config
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\bin\Debug\StylooREnamer.exe.manifest
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\bin\Debug\StylooREnamer.application
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\bin\Debug\StylooREnamer.exe
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\bin\Debug\StylooREnamer.pdb
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\obj\Debug\StylooREnamer.Properties.Resources.resources
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\obj\Debug\StylooREnamer.TrustInfo.xml
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\obj\Debug\StylooREnamer.exe.manifest
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\obj\Debug\StylooREnamer.application
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\obj\Debug\StylooREnamer.exe
+C:\Users\MON PC\source\repos\animesreanamer\animesreanamer\obj\Debug\StylooREnamer.pdb
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\obj\Debug\StylooREnamer.csproj.AssemblyReference.cache
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\obj\Debug\animesreanamer.filerenamer.resources
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\obj\Debug\StylooREnamer.Properties.Resources.resources
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\obj\Debug\StylooREnamer.csproj.GenerateResource.cache
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\obj\Debug\StylooREnamer.exe
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\obj\Debug\StylooREnamer.pdb
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\bin\Debug\StylooREnamer.exe.config
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\bin\Debug\StylooREnamer.exe.manifest
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\bin\Debug\StylooREnamer.application
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\bin\Debug\StylooREnamer.exe
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\bin\Debug\StylooREnamer.pdb
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\bin\Debug\MaterialSkin.dll
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\obj\Debug\StylooREnamer.csproj.CoreCompileInputs.cache
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\obj\Debug\StylooREnamer.TrustInfo.xml
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\obj\Debug\StylooREnamer.exe.manifest
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\obj\Debug\StylooREnamer.application
+C:\Users\kirig\source\repos\StylooREnamer\animesreanamer\obj\Debug\StylooREnamer.csproj.CopyComplete

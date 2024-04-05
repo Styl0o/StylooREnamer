@@ -143,7 +143,10 @@ namespace animesreanamer
 
             foreach (ListBox items in leslistesboxes)
             {
+                
                 items.SelectedIndex = selectedindex;
+                
+
             }
         }
 
@@ -209,8 +212,8 @@ namespace animesreanamer
             foreach(containerdevideos item in containerdevid)
             {
                 if(!listBox3.Items.Contains(item.nom)) listBox3.Items.Add(item.nom);
-                if (!listBox4.Items.Contains(item.date)) listBox4.Items.Add(item.date);
-                if (!listBox5.Items.Contains(item.taille)) listBox5.Items.Add(item.taille);
+                /*if (!listBox4.Items.Contains(item.date)) listBox4.Items.Add(item.date);
+                if (!listBox5.Items.Contains(item.taille)) listBox5.Items.Add(item.taille); */
             }
         }
         public void lesnomsplusclear()
@@ -430,6 +433,7 @@ namespace animesreanamer
 
                     containerdevid.RemoveAt(listBox1.SelectedIndex);
                     containerdevid.Insert(nouveauindex, tempcontain );
+                    
 
                 }
             }
@@ -439,10 +443,23 @@ namespace animesreanamer
         public void moveitemslesnoms()
         {
             listBox3.Items.Clear();
-
-            foreach(string item in listBox1.Items)
+            listBox4.Items.Clear();
+            listBox5.Items.Clear();
+            
+            foreach (string item in listBox1.Items)
             {
+                FileInfo fileInfo = new FileInfo(item);
+                long taille = fileInfo.Length;
+                
+                var datee = fileInfo.CreationTime;
+                var t = (taille / 1000) + "mb";
+                var d = "" + datee;
+
                 listBox3.Items.Add(Path.GetFileName(item));
+                
+                listBox4.Items.Add(t);
+                //Console.WriteLine(containerdevid[listBox1.Items.IndexOf(item)].date);
+                listBox5.Items.Add(d);
             }
         }
 
